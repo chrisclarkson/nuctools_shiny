@@ -1,7 +1,5 @@
-
 library(plyr)
 library(zoo)
-library(Rlibeemd)
 filed=read.table('files')
 #head(x)
 library(shiny)
