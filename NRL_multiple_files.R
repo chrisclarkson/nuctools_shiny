@@ -1,4 +1,4 @@
-setwd('~/Downloads/preliminary_TF_affinity_NRLs/second')
+
 library(plyr)
 library(zoo)
 library(Rlibeemd)
