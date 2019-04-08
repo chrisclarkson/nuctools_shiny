@@ -10,8 +10,9 @@ This applet allows one to interactively click and pick points on phasograms, and
 
 This applet save me a lot of time.
 
+Exemplary data is supplied from my other page: https://github.com/chrisclarkson/NRL_calc which documents my paper.
 
-packages needed include shiny, zoo and plyr
+Packages needed include shiny, zoo and plyr
 
 
 ```
