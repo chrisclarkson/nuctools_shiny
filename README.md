@@ -12,7 +12,7 @@ git clone https://github.com/chrisclarkson/nuctools_shiny/
 
 cd nuctools_shiny
 
-ls *NRL.txt > files #list all files with histogram data and put this list in a 'files'
+ls *aggregate.txt > files #list all files with histogram data and put this list in a 'files'
 
 #the Rscript will read 'files' and can then the app can be run
 
@@ -24,7 +24,7 @@ install.packages('zoo')
 
 install.packages('plyr')
 
-
+Rscript NRL_multiple_files.R
 
 ```
 
