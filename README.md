@@ -6,7 +6,7 @@ This measurement serves as a metric for nucleosome packing density for a piece o
 
 It involves manual point/peak picking on a plot called a phasogram.
 
-This applet allows one to interactively click and pick points on phasograms, and interactively calculate the NRL value for many different phasograms by use of a 'Next' and 'Back' button. 
+This applet allows one to interactively click and pick points on phasograms, and easily calculate the NRL value for many different phasograms by use of a 'Next' and 'Back' button. 
 
 This applet save me a lot of time.
 
